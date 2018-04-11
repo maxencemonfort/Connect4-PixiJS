@@ -1,0 +1,15 @@
+{
+  "name": "connect4",
+  "version": "1.0.0",
+  "description": "Connect4 with PixiJS",
+  "main": "app.js",
+  "dependencies": {
+    "pixi.js": "^4.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxence Monfort",
+  "license": "ISC"
+}

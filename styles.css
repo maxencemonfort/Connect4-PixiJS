@@ -1,0 +1,38 @@
+body{
+	/*height:90vh;
+	display:flex;
+	justify-content: center;
+	align-items: center;*/
+	text-align: center;
+	background-image: url("images/background.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#newGame{
+	border-radius: 8px;
+	background-color: #008CBA;
+	margin-right: 80px;
+}
+
+#newGame:active{
+	background-color:#004A5D;
+}
+
+#buttonText{
+	font-size: 40px;
+	font-family: Arial;
+	color:white;
+}
+
+#scoreDisplay{
+	font-size: 40px;
+	color:white;
+	font-family: Arial;
+}
+
+#menu{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
