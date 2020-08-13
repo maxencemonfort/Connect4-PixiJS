@@ -1,4 +1,4 @@
-class Grid {
+export class Grid {
 
 	constructor(){
 		this.NB_COL=7;
